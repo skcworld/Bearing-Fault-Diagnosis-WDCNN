@@ -14,4 +14,4 @@ The model is trained and evaluated on the dataset from the following paper:
 ## Result
 
 Final classification result:
-![Results](./results.png)
+![Result Image](https://github.com/skcworld/Bearing-Fault-Diagnosis-WDCNN/raw/main/results.PNG)
