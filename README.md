@@ -1,7 +1,7 @@
 # Bearing-Fault-Diagnosis-WDCNN
 This repository contains the implementation of **WDCNN (Wide Deep Convolutional Neural Network)** for fault diagnosis in rotating machinery using time-series data.
 
-### Dataset
+## Dataset
 
 The model is trained and evaluated on the dataset from the following paper:
 
@@ -11,6 +11,6 @@ The model is trained and evaluated on the dataset from the following paper:
  
 - Total classes: **11** (including multiple fault types and healthy condition)
 
-### Result
+## Result
 
 Final classification result:
