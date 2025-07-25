@@ -12,6 +12,4 @@ The model is trained and evaluated on the dataset from the following paper:
 - Total classes: **11** (including multiple fault types and healthy condition)
 
 ## Result
-
-Final classification result:
 ![Result Image](https://github.com/skcworld/Bearing-Fault-Diagnosis-WDCNN/raw/main/results.PNG)
