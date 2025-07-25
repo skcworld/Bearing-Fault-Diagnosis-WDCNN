@@ -14,3 +14,4 @@ The model is trained and evaluated on the dataset from the following paper:
 ## Result
 
 Final classification result:
+![Results](./results.png)
